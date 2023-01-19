@@ -1,6 +1,6 @@
 projects:
   appsync-de65ef6:
-    schemaPath: deployment/config/src/graphql/schema.json
+    schemaPath: src/graphql/schema.json
     includes:
       - /graphql/**/*.ts
     excludes:

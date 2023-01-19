@@ -10,6 +10,14 @@
       "StackName": "amplify-talentsourcingapp-dev-195340",
       "StackId": "arn:aws:cloudformation:us-east-1:851565480501:stack/amplify-talentsourcingapp-dev-195340/b3472440-96e3-11ed-8855-0e365b6dc37b",
       "AmplifyAppId": "d1r3p360xynkfx"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1r3p360xynkfx",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
